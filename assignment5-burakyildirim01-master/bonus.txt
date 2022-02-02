@@ -1,0 +1,1 @@
+We can use fgets(variableName, sizeof(variableName),stdin) for dynamically sized buffers to avoid buffer overflow vulnerabilities.

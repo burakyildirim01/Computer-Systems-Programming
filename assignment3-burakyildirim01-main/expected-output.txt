@@ -1,0 +1,24 @@
+Enter the cities:
+Tumbolia Yaxchilan
+Output:
+Tumbolia Burronymede Yaxchilan 
+145
+
+Enter the cities:
+Yaxchilan Castrovalva
+Output:
+Yaxchilan Bonampak Glazunkia Castrovalva 
+105
+
+Enter the cities:
+Finiguerra Mau
+Output:
+Finiguerra Bonampak Glazunkia Castrovalva Mestre Mau 
+175
+
+Enter the cities:
+Mau Castrovalva
+Output:
+Mau Mestre Castrovalva 
+105
+
